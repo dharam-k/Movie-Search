@@ -92,7 +92,7 @@ function App() {
       <MovieComponent />
       <MovieComponent />
       <MovieComponent />
-      <MovieComponent />
+      
      
       </MovieListContainer>
     </Container>
